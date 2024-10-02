@@ -1,4 +1,4 @@
-h1, h3, th {
+h3, th {
 	background: linear-gradient(90deg, #ff0000ff, #ff9a00ff, #d0de21ff, #3fdad8ff, #2fc9e2ff, #1c7feeff, #5f15f2ff, #ba0cf8ff, #fb07d9ff, #ff0000ff);
 	background-size: 400%;
 	-webkit-text-fill-color: transparent;
