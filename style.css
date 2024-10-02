@@ -37,3 +37,18 @@ body {
 		background-position: 400%;
 	}
 }
+
+.font-bold {
+    font-weight: 700;
+}
+
+h1 {
+	font-weight: 700;
+    margin-bottom: 1rem;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+}
+
+.w-full {
+    width: 100%;
+}
