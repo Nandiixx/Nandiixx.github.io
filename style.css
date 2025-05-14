@@ -9,6 +9,9 @@ body {
     background-color: #0a0a1a;
     background-image: linear-gradient(135deg, #0a0a1a 0%, #1c0639 100%);
     height: 100vh;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -33,6 +36,9 @@ body:before {
 .container {
     width: 100%;
     max-width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     padding: 20px;
 }
 
@@ -48,6 +54,7 @@ body:before {
     border: 1px solid rgba(148, 0, 211, 0.3);
     position: relative;
     overflow: hidden;
+    width: 100%;
 }
 
 .profile-card:before {
@@ -180,4 +187,16 @@ body:before {
     .username {
         font-size: 24px;
     }
+}
+
+/* Garantindo centralização absoluta */
+html, body {
+    height: 100%;
+    overflow: hidden;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
