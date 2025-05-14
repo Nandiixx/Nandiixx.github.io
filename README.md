@@ -2,9 +2,12 @@
 
 Bem-vindo ao repositório do meu site pessoal! 🌐
 
-## Sobre o Projeto
+## Sobre o Projeto 
 
 Este é o código-fonte do meu site pessoal, hospedado no [Vercel](https://vercel.com/home). 
+
+![Uploading image.png…]()
+
 
 ## Tecnologias Utilizadas
 
