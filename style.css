@@ -98,8 +98,8 @@ body, html {
 }
 
 .social-tiktok:hover {
-    color: #000000;
-    text-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+    color: #807ea6;
+    text-shadow: 0 0 10px rgba(128, 126, 166, 0.7);
     transform: scale(1.3);
 }
 
