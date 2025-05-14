@@ -83,8 +83,8 @@ body, html {
 }
 
 .social-steam:hover {
-    color: #0000ff;
-    text-shadow: 0 0 10px rgba(0, 0, 255, 0.7);
+    color: #085486;
+    text-shadow: 0 0 10px rgba(8, 84, 134, 0.7);
     transform: scale(1.1);
 }
 
@@ -122,8 +122,8 @@ body, html {
 }
 
 .social-discord:hover {
-    color: #8000ff;
-    text-shadow: 0 0 10px rgba(128, 0, 255, 0.7);
+    color: #5662f6;
+    text-shadow: 0 0 10px rgba(86, 98, 246, 0.7);
     transform: scale(1.1);
 }
 
