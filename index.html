@@ -21,9 +21,30 @@
                 <a target="_blank" href="https://www.instagram.com/hernandiixx/" class="social-insta"><i class="fab fa-instagram"></i></a>
                 <a target="_blank" href="https://github.com/Nandiixx" class="social-github"><i class="fab fa-github"></i></a>
                 <a target="_blank" href="https://br.pinterest.com/hernandiixx/" class="social-pinterest"><i class="fab fa-pinterest"></i></a>
-                <a class="social-discord"><i class="fab fa-discord"></i></a>
+                <a class="social-discord" id="discord-copy"><i class="fab fa-discord"></i></a>
             </div>
         </div>
     </div>
+    <script>
+    document.getElementById('discord-copy').addEventListener('click', function() {
+        // The Discord username to copy
+        const discordUsername = "Nandiixx"; 
+        
+        // Copy to clipboard
+        navigator.clipboard.writeText(discordUsername).then(function() {
+            // Visual feedback that it was copied
+            alert('Discord tag copied to clipboard: ' + discordUsername);
+            
+            // Alternative feedback - change icon color temporarily
+            const discordIcon = document.querySelector('.social-discord i');
+            const originalColor = discordIcon.style.color;
+            discordIcon.style.color = '#5662f6';
+            
+            setTimeout(function() {
+                discordIcon.style.color = originalColor;
+            }, 1000);
+        });
+    });
+</script>
 </body>
 </html>
