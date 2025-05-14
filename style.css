@@ -140,6 +140,19 @@ body, html {
     transform: scale(1.1);
 }
 
+.social-pinterest {
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.social-pinterest:hover {
+    color: #ff00ff;
+    text-shadow: 0 0 10px rgba(255, 0, 255, 0.7);
+    transform: scale(1.1);
+}
+
 @media (max-width: 768px) {
     .profile-pic {
         width: 120px;
