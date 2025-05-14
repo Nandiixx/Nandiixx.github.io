@@ -75,79 +75,66 @@ body, html {
     margin-top: 25px;
 }
 
-.social-icon {
+.social-steam {
     font-size: 24px;
     color: white;
     text-decoration: none;
     transition: all 0.3s ease;
 }
 
-.social-icon:hover {
+.social-steam:hover {
     color: #ff00ff;
     text-shadow: 0 0 10px rgba(255, 0, 255, 0.7);
     transform: scale(1.1);
 }
 
-.social-icon-steam {
+.social-tiktok {
     font-size: 24px;
     color: white;
     text-decoration: none;
     transition: all 0.3s ease;
 }
 
-.social-icon-steam:hover {
+.social-tiktok:hover {
     color: #ff00ff;
     text-shadow: 0 0 10px rgba(255, 0, 255, 0.7);
     transform: scale(1.1);
 }
 
-.social-icon-tiktok {
+.social-twitter {
     font-size: 24px;
     color: white;
     text-decoration: none;
     transition: all 0.3s ease;
 }
 
-.social-icon-tiktok:hover {
+.social-twitter:hover {
     color: #ff00ff;
     text-shadow: 0 0 10px rgba(255, 0, 255, 0.7);
     transform: scale(1.1);
 }
 
-.social-icon-twitter {
+.social-discord {
     font-size: 24px;
     color: white;
     text-decoration: none;
     transition: all 0.3s ease;
 }
 
-.social-icon-twitter:hover {
+.social-discord:hover {
     color: #ff00ff;
     text-shadow: 0 0 10px rgba(255, 0, 255, 0.7);
     transform: scale(1.1);
 }
 
-.social-icon-discord {
+.social-instagram {
     font-size: 24px;
     color: white;
     text-decoration: none;
     transition: all 0.3s ease;
 }
 
-.social-icon-discord:hover {
-    color: #ff00ff;
-    text-shadow: 0 0 10px rgba(255, 0, 255, 0.7);
-    transform: scale(1.1);
-}
-
-.social-icon-instagram {
-    font-size: 24px;
-    color: white;
-    text-decoration: none;
-    transition: all 0.3s ease;
-}
-
-.social-icon-instagram:hover {
+.social-instagram:hover {
     color: #ff00ff;
     text-shadow: 0 0 10px rgba(255, 0, 255, 0.7);
     transform: scale(1.1);
