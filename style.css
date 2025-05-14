@@ -135,8 +135,8 @@ body, html {
 }
 
 .social-github:hover {
-    color: #ff8000;
-    text-shadow: 0 0 10px rgba(255, 128, 0,  0.7);
+    color: #792f9e;
+    text-shadow: 0 0 10px rgba(121, 47, 158,  0.7);
     transform: scale(1.1);
 }
 
