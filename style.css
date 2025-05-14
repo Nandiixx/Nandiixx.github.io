@@ -101,14 +101,14 @@ body, html {
     transform: scale(1.1);
 }
 
-.social-twitter {
+.social-insta {
     font-size: 24px;
     color: white;
     text-decoration: none;
     transition: all 0.3s ease;
 }
 
-.social-twitter:hover {
+.social-insta:hover {
     color: #ff00ff;
     text-shadow: 0 0 10px rgba(255, 0, 255, 0.7);
     transform: scale(1.1);
@@ -127,14 +127,14 @@ body, html {
     transform: scale(1.1);
 }
 
-.social-instagram {
+.social-github {
     font-size: 24px;
     color: white;
     text-decoration: none;
     transition: all 0.3s ease;
 }
 
-.social-instagram:hover {
+.social-github:hover {
     color: #ff00ff;
     text-shadow: 0 0 10px rgba(255, 0, 255, 0.7);
     transform: scale(1.1);
