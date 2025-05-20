@@ -9,6 +9,11 @@ html {
   font-family: Arial, sans-serif;
 }
 
+h1,
+p {
+  font-family: "Poetsen One";
+}
+
 .copy-message {
   position: absolute;
   top: -30px;
