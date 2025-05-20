@@ -23,6 +23,7 @@ Este é o código-fonte do meu site pessoal, hospedado no [Vercel](https://verce
 
 - `index.html`: Página principal do site.
 - `style.css`: Arquivo de estilos personalizado.
+- `script.js`: Arquivo de funções dos componentes.
 - Outras páginas e arquivos podem ser adicionados futuramente.
 
 ## Como Visualizar o Site
