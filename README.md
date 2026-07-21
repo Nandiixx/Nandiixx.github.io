@@ -28,7 +28,7 @@ Este é o código-fonte do meu site pessoal, hospedado no [Vercel](https://verce
 
 ## Como Visualizar o Site
 
-Você pode acessar o site diretamente por meio deste link: [Nandiixx.live](https://www.nandiixx.me).
+Você pode acessar o site diretamente por meio deste link: [Nandiixx.me](http://www.nandiixx.me).
 
 ## Contribuição
 
